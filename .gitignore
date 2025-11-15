@@ -1,4 +1,4 @@
-# Byte-compiled / optimized / DLL files
+oso# Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
 *$py.class
@@ -10,9 +10,7 @@ __pycache__/
 .Python
 build/
 develop-eggs/
-dist/
-downloads/
-eggs/
+neggs/
 .eggs/
 lib/
 lib64/
@@ -205,3 +203,4 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+/.idea
